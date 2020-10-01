@@ -35,4 +35,4 @@ JSP/Servlet 그리고 MyBatis 3.5.5, HikariCP 3.4.2, Oracle 19g 연동하기(Spr
 ##### 2. Maven - Welcome to Apache Maven, https://maven.apache.org/, Accessed by 2020-09-29, Last Modified .
 ##### 3. Spring | Tools, https://spring.io/tools, Accessed by 2020-09-29, Last Modified .
 ##### 4. OpenJDK, https://openjdk.java.net/, Accessed by 2020-09-29, Last Modified .
-##### 5
+##### 5. The MyBatis Blog, https://blog.mybatis.org/, Accessed by 2020-10-01, Last Modified .
